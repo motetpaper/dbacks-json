@@ -1,11 +1,22 @@
+#!/usr/bin/env node
+
+// mkjson.js
+// job:   makes JSON data feed of baseball schedule
+// git:   http://github.com/motetpaper/dbacks-json
+// lic:   CC0
+
 const fs = require('fs');
 
+// place the team codes in a Map for easy access
 const teamcodes = new Map();
 fs.readFileSync('teams.csv', 'utf8')
   .trim().split(/\n/).map((a)=>a.split(',')).forEach((a)=>{
     teamcodes.set(a[1],a[0]);
   });
-fs.readFile('dbacks.csv','utf8', (err,data)=>{
+
+// convert the CSV into a JSON feed
+fs.readFile('dbacks.csv','utf8', (err,data) => {
+  
   const lines = data.trim().split(/\n/);
   const arr = lines.map((a)=>a.split(','));
   const schedule = [];
