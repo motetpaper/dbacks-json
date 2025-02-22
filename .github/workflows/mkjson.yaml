@@ -5,7 +5,7 @@ name: dbacks-json-mkjson
 on: 
   workflow_dispatch:
 jobs:
-  upload:
+  make:
     runs-on: ubuntu-latest
 
     permissions:
