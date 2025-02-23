@@ -48,7 +48,7 @@ fs.readFile('dbacks.csv','utf8', (err,data) => {
     // 1 start time (first pitch)
     // 3 subject
     dt = new Date(`${a[0]} 00:00:00 -0700`)
-    fp = new Date(`${a[0]} ${a[1]} -0700`)
+    fp = new Date(`${a[0]} ${a[1]}`)
     opendt = new Date('2025-03-27T00:00:00-0700')
     versus = a[3].replace(' at ','')
       .replace(team, '').trim()
@@ -62,9 +62,9 @@ fs.readFile('dbacks.csv','utf8', (err,data) => {
       date: dt.toLocaleDateString('fr-CA'),
       firstpitchts: +fp,
       firstpitchiso: fp,
-      firstpitch: fp.toLocaleTimeString('en-US', {
-        hour: '2-digit',
-        minute: '2-digit',
+      firstpitch: fp.toLocaleTimeString('en-US',{
+        timeStyle: 'short',
+        timezone: 'America/Phoenix'
       }),
       team: versus,
       teamcode: teamcodes.get(versus),
@@ -72,5 +72,10 @@ fs.readFile('dbacks.csv','utf8', (err,data) => {
     }) // push
   }) // foreach
 
-  console.log(JSON.stringify(schedule.filter((a)=>a.firstpitchts > a.openingdayts), null, 2))
+  const outdata = JSON.stringify(schedule
+    .filter((a)=>a.firstpitchts > a.openingdayts), null, 2)
+
+  fs.writeFile('outputs/dbacks.json', outdata, 'utf8', (err)=>{
+    if (err) throw err;
+  });
 });
