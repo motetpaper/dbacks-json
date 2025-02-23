@@ -8,7 +8,7 @@
     "date": "2025-03-27",
     "firstpitchts": 1743127800000,
     "firstpitchiso": "2025-03-28T02:10:00.000Z",
-    "firstpitch": "02:10",
+    "firstpitch": "02:10 AM",
     "team": "Cubs",
     "teamcode": "CHC",
     "homegame": true
@@ -22,7 +22,7 @@
     "date": "2025-03-28",
     "firstpitchts": 1743212400000,
     "firstpitchiso": "2025-03-29T01:40:00.000Z",
-    "firstpitch": "01:40",
+    "firstpitch": "01:40 AM",
     "team": "Cubs",
     "teamcode": "CHC",
     "homegame": true
@@ -36,7 +36,7 @@
     "date": "2025-03-29",
     "firstpitchts": 1743293400000,
     "firstpitchiso": "2025-03-30T00:10:00.000Z",
-    "firstpitch": "00:10",
+    "firstpitch": "12:10 AM",
     "team": "Cubs",
     "teamcode": "CHC",
     "homegame": true
@@ -50,7 +50,7 @@
     "date": "2025-03-30",
     "firstpitchts": 1743365400000,
     "firstpitchiso": "2025-03-30T20:10:00.000Z",
-    "firstpitch": "20:10",
+    "firstpitch": "08:10 PM",
     "team": "Cubs",
     "teamcode": "CHC",
     "homegame": true
@@ -64,7 +64,7 @@
     "date": "2025-04-01",
     "firstpitchts": 1743548700000,
     "firstpitchiso": "2025-04-01T23:05:00.000Z",
-    "firstpitch": "23:05",
+    "firstpitch": "11:05 PM",
     "team": "Yankees",
     "teamcode": "NYY",
     "homegame": false
@@ -78,7 +78,7 @@
     "date": "2025-04-02",
     "firstpitchts": 1743635100000,
     "firstpitchiso": "2025-04-02T23:05:00.000Z",
-    "firstpitch": "23:05",
+    "firstpitch": "11:05 PM",
     "team": "Yankees",
     "teamcode": "NYY",
     "homegame": false
@@ -92,7 +92,7 @@
     "date": "2025-04-03",
     "firstpitchts": 1743721500000,
     "firstpitchiso": "2025-04-03T23:05:00.000Z",
-    "firstpitch": "23:05",
+    "firstpitch": "11:05 PM",
     "team": "Yankees",
     "teamcode": "NYY",
     "homegame": false
@@ -106,7 +106,7 @@
     "date": "2025-04-04",
     "firstpitchts": 1743806700000,
     "firstpitchiso": "2025-04-04T22:45:00.000Z",
-    "firstpitch": "22:45",
+    "firstpitch": "10:45 PM",
     "team": "Nationals",
     "teamcode": "WSH",
     "homegame": false
@@ -120,7 +120,7 @@
     "date": "2025-04-05",
     "firstpitchts": 1743883500000,
     "firstpitchiso": "2025-04-05T20:05:00.000Z",
-    "firstpitch": "20:05",
+    "firstpitch": "08:05 PM",
     "team": "Nationals",
     "teamcode": "WSH",
     "homegame": false
@@ -134,7 +134,7 @@
     "date": "2025-04-06",
     "firstpitchts": 1743960900000,
     "firstpitchiso": "2025-04-06T17:35:00.000Z",
-    "firstpitch": "17:35",
+    "firstpitch": "05:35 PM",
     "team": "Nationals",
     "teamcode": "WSH",
     "homegame": false
@@ -148,7 +148,7 @@
     "date": "2025-04-07",
     "firstpitchts": 1744076400000,
     "firstpitchiso": "2025-04-08T01:40:00.000Z",
-    "firstpitch": "01:40",
+    "firstpitch": "01:40 AM",
     "team": "Orioles",
     "teamcode": "BAL",
     "homegame": true
@@ -162,7 +162,7 @@
     "date": "2025-04-08",
     "firstpitchts": 1744162800000,
     "firstpitchiso": "2025-04-09T01:40:00.000Z",
-    "firstpitch": "01:40",
+    "firstpitch": "01:40 AM",
     "team": "Orioles",
     "teamcode": "BAL",
     "homegame": true
@@ -176,7 +176,7 @@
     "date": "2025-04-09",
     "firstpitchts": 1744227600000,
     "firstpitchiso": "2025-04-09T19:40:00.000Z",
-    "firstpitch": "19:40",
+    "firstpitch": "07:40 PM",
     "team": "Orioles",
     "teamcode": "BAL",
     "homegame": true
@@ -190,7 +190,7 @@
     "date": "2025-04-11",
     "firstpitchts": 1744422000000,
     "firstpitchiso": "2025-04-12T01:40:00.000Z",
-    "firstpitch": "01:40",
+    "firstpitch": "01:40 AM",
     "team": "Brewers",
     "teamcode": "MIL",
     "homegame": true
@@ -204,7 +204,7 @@
     "date": "2025-04-12",
     "firstpitchts": 1744503000000,
     "firstpitchiso": "2025-04-13T00:10:00.000Z",
-    "firstpitch": "00:10",
+    "firstpitch": "12:10 AM",
     "team": "Brewers",
     "teamcode": "MIL",
     "homegame": true
@@ -218,7 +218,7 @@
     "date": "2025-04-13",
     "firstpitchts": 1744575000000,
     "firstpitchiso": "2025-04-13T20:10:00.000Z",
-    "firstpitch": "20:10",
+    "firstpitch": "08:10 PM",
     "team": "Brewers",
     "teamcode": "MIL",
     "homegame": true
@@ -232,7 +232,7 @@
     "date": "2025-04-15",
     "firstpitchts": 1744756800000,
     "firstpitchiso": "2025-04-15T22:40:00.000Z",
-    "firstpitch": "22:40",
+    "firstpitch": "10:40 PM",
     "team": "Marlins",
     "teamcode": "MIA",
     "homegame": false
@@ -246,7 +246,7 @@
     "date": "2025-04-16",
     "firstpitchts": 1744843200000,
     "firstpitchiso": "2025-04-16T22:40:00.000Z",
-    "firstpitch": "22:40",
+    "firstpitch": "10:40 PM",
     "team": "Marlins",
     "teamcode": "MIA",
     "homegame": false
@@ -260,7 +260,7 @@
     "date": "2025-04-17",
     "firstpitchts": 1744906200000,
     "firstpitchiso": "2025-04-17T16:10:00.000Z",
-    "firstpitch": "16:10",
+    "firstpitch": "04:10 PM",
     "team": "Marlins",
     "teamcode": "MIA",
     "homegame": false
@@ -274,7 +274,7 @@
     "date": "2025-04-18",
     "firstpitchts": 1745000400000,
     "firstpitchiso": "2025-04-18T18:20:00.000Z",
-    "firstpitch": "18:20",
+    "firstpitch": "06:20 PM",
     "team": "Cubs",
     "teamcode": "CHC",
     "homegame": false
@@ -288,7 +288,7 @@
     "date": "2025-04-19",
     "firstpitchts": 1745086800000,
     "firstpitchiso": "2025-04-19T18:20:00.000Z",
-    "firstpitch": "18:20",
+    "firstpitch": "06:20 PM",
     "team": "Cubs",
     "teamcode": "CHC",
     "homegame": false
@@ -302,7 +302,7 @@
     "date": "2025-04-20",
     "firstpitchts": 1745173200000,
     "firstpitchiso": "2025-04-20T18:20:00.000Z",
-    "firstpitch": "18:20",
+    "firstpitch": "06:20 PM",
     "team": "Cubs",
     "teamcode": "CHC",
     "homegame": false
@@ -316,7 +316,7 @@
     "date": "2025-04-22",
     "firstpitchts": 1745372400000,
     "firstpitchiso": "2025-04-23T01:40:00.000Z",
-    "firstpitch": "01:40",
+    "firstpitch": "01:40 AM",
     "team": "Rays",
     "teamcode": "TB",
     "homegame": true
@@ -330,7 +330,7 @@
     "date": "2025-04-23",
     "firstpitchts": 1745458800000,
     "firstpitchiso": "2025-04-24T01:40:00.000Z",
-    "firstpitch": "01:40",
+    "firstpitch": "01:40 AM",
     "team": "Rays",
     "teamcode": "TB",
     "homegame": true
@@ -344,7 +344,7 @@
     "date": "2025-04-24",
     "firstpitchts": 1745545200000,
     "firstpitchiso": "2025-04-25T01:40:00.000Z",
-    "firstpitch": "01:40",
+    "firstpitch": "01:40 AM",
     "team": "Rays",
     "teamcode": "TB",
     "homegame": true
@@ -358,7 +358,7 @@
     "date": "2025-04-25",
     "firstpitchts": 1745631600000,
     "firstpitchiso": "2025-04-26T01:40:00.000Z",
-    "firstpitch": "01:40",
+    "firstpitch": "01:40 AM",
     "team": "Braves",
     "teamcode": "ATL",
     "homegame": true
@@ -372,7 +372,7 @@
     "date": "2025-04-26",
     "firstpitchts": 1745712600000,
     "firstpitchiso": "2025-04-27T00:10:00.000Z",
-    "firstpitch": "00:10",
+    "firstpitch": "12:10 AM",
     "team": "Braves",
     "teamcode": "ATL",
     "homegame": true
@@ -386,7 +386,7 @@
     "date": "2025-04-27",
     "firstpitchts": 1745784600000,
     "firstpitchiso": "2025-04-27T20:10:00.000Z",
-    "firstpitch": "20:10",
+    "firstpitch": "08:10 PM",
     "team": "Braves",
     "teamcode": "ATL",
     "homegame": true
@@ -400,7 +400,7 @@
     "date": "2025-04-29",
     "firstpitchts": 1745968200000,
     "firstpitchiso": "2025-04-29T23:10:00.000Z",
-    "firstpitch": "23:10",
+    "firstpitch": "11:10 PM",
     "team": "Mets",
     "teamcode": "NYM",
     "homegame": false
@@ -414,7 +414,7 @@
     "date": "2025-04-30",
     "firstpitchts": 1746054600000,
     "firstpitchiso": "2025-04-30T23:10:00.000Z",
-    "firstpitch": "23:10",
+    "firstpitch": "11:10 PM",
     "team": "Mets",
     "teamcode": "NYM",
     "homegame": false
@@ -428,7 +428,7 @@
     "date": "2025-05-01",
     "firstpitchts": 1746119400000,
     "firstpitchiso": "2025-05-01T17:10:00.000Z",
-    "firstpitch": "17:10",
+    "firstpitch": "05:10 PM",
     "team": "Mets",
     "teamcode": "NYM",
     "homegame": false
@@ -442,7 +442,7 @@
     "date": "2025-05-02",
     "firstpitchts": 1746225900000,
     "firstpitchiso": "2025-05-02T22:45:00.000Z",
-    "firstpitch": "22:45",
+    "firstpitch": "10:45 PM",
     "team": "Phillies",
     "teamcode": "PHI",
     "homegame": false
@@ -456,7 +456,7 @@
     "date": "2025-05-03",
     "firstpitchts": 1746309900000,
     "firstpitchiso": "2025-05-03T22:05:00.000Z",
-    "firstpitch": "22:05",
+    "firstpitch": "10:05 PM",
     "team": "Phillies",
     "teamcode": "PHI",
     "homegame": false
@@ -470,7 +470,7 @@
     "date": "2025-05-04",
     "firstpitchts": 1746381900000,
     "firstpitchiso": "2025-05-04T18:05:00.000Z",
-    "firstpitch": "18:05",
+    "firstpitch": "06:05 PM",
     "team": "Phillies",
     "teamcode": "PHI",
     "homegame": false
@@ -484,7 +484,7 @@
     "date": "2025-05-05",
     "firstpitchts": 1746495600000,
     "firstpitchiso": "2025-05-06T01:40:00.000Z",
-    "firstpitch": "01:40",
+    "firstpitch": "01:40 AM",
     "team": "Mets",
     "teamcode": "NYM",
     "homegame": true
@@ -498,7 +498,7 @@
     "date": "2025-05-06",
     "firstpitchts": 1746582000000,
     "firstpitchiso": "2025-05-07T01:40:00.000Z",
-    "firstpitch": "01:40",
+    "firstpitch": "01:40 AM",
     "team": "Mets",
     "teamcode": "NYM",
     "homegame": true
@@ -512,7 +512,7 @@
     "date": "2025-05-07",
     "firstpitchts": 1746646800000,
     "firstpitchiso": "2025-05-07T19:40:00.000Z",
-    "firstpitch": "19:40",
+    "firstpitch": "07:40 PM",
     "team": "Mets",
     "teamcode": "NYM",
     "homegame": true
@@ -526,7 +526,7 @@
     "date": "2025-05-08",
     "firstpitchts": 1746754800000,
     "firstpitchiso": "2025-05-09T01:40:00.000Z",
-    "firstpitch": "01:40",
+    "firstpitch": "01:40 AM",
     "team": "Dodgers",
     "teamcode": "LAD",
     "homegame": true
@@ -540,7 +540,7 @@
     "date": "2025-05-09",
     "firstpitchts": 1746841200000,
     "firstpitchiso": "2025-05-10T01:40:00.000Z",
-    "firstpitch": "01:40",
+    "firstpitch": "01:40 AM",
     "team": "Dodgers",
     "teamcode": "LAD",
     "homegame": true
@@ -554,7 +554,7 @@
     "date": "2025-05-10",
     "firstpitchts": 1746922200000,
     "firstpitchiso": "2025-05-11T00:10:00.000Z",
-    "firstpitch": "00:10",
+    "firstpitch": "12:10 AM",
     "team": "Dodgers",
     "teamcode": "LAD",
     "homegame": true
@@ -568,7 +568,7 @@
     "date": "2025-05-11",
     "firstpitchts": 1746994200000,
     "firstpitchiso": "2025-05-11T20:10:00.000Z",
-    "firstpitch": "20:10",
+    "firstpitch": "08:10 PM",
     "team": "Dodgers",
     "teamcode": "LAD",
     "homegame": true
@@ -582,7 +582,7 @@
     "date": "2025-05-12",
     "firstpitchts": 1747100700000,
     "firstpitchiso": "2025-05-13T01:45:00.000Z",
-    "firstpitch": "01:45",
+    "firstpitch": "01:45 AM",
     "team": "Giants",
     "teamcode": "SF",
     "homegame": false
@@ -596,7 +596,7 @@
     "date": "2025-05-13",
     "firstpitchts": 1747187100000,
     "firstpitchiso": "2025-05-14T01:45:00.000Z",
-    "firstpitch": "01:45",
+    "firstpitch": "01:45 AM",
     "team": "Giants",
     "teamcode": "SF",
     "homegame": false
@@ -610,7 +610,7 @@
     "date": "2025-05-14",
     "firstpitchts": 1747251900000,
     "firstpitchiso": "2025-05-14T19:45:00.000Z",
-    "firstpitch": "19:45",
+    "firstpitch": "07:45 PM",
     "team": "Giants",
     "teamcode": "SF",
     "homegame": false
@@ -624,7 +624,7 @@
     "date": "2025-05-16",
     "firstpitchts": 1747446000000,
     "firstpitchiso": "2025-05-17T01:40:00.000Z",
-    "firstpitch": "01:40",
+    "firstpitch": "01:40 AM",
     "team": "Rockies",
     "teamcode": "COL",
     "homegame": true
@@ -638,7 +638,7 @@
     "date": "2025-05-17",
     "firstpitchts": 1747527000000,
     "firstpitchiso": "2025-05-18T00:10:00.000Z",
-    "firstpitch": "00:10",
+    "firstpitch": "12:10 AM",
     "team": "Rockies",
     "teamcode": "COL",
     "homegame": true
@@ -652,7 +652,7 @@
     "date": "2025-05-18",
     "firstpitchts": 1747599000000,
     "firstpitchiso": "2025-05-18T20:10:00.000Z",
-    "firstpitch": "20:10",
+    "firstpitch": "08:10 PM",
     "team": "Rockies",
     "teamcode": "COL",
     "homegame": true
@@ -666,7 +666,7 @@
     "date": "2025-05-19",
     "firstpitchts": 1747707000000,
     "firstpitchiso": "2025-05-20T02:10:00.000Z",
-    "firstpitch": "02:10",
+    "firstpitch": "02:10 AM",
     "team": "Dodgers",
     "teamcode": "LAD",
     "homegame": false
@@ -680,7 +680,7 @@
     "date": "2025-05-20",
     "firstpitchts": 1747793400000,
     "firstpitchiso": "2025-05-21T02:10:00.000Z",
-    "firstpitch": "02:10",
+    "firstpitch": "02:10 AM",
     "team": "Dodgers",
     "teamcode": "LAD",
     "homegame": false
@@ -694,7 +694,7 @@
     "date": "2025-05-21",
     "firstpitchts": 1747879800000,
     "firstpitchiso": "2025-05-22T02:10:00.000Z",
-    "firstpitch": "02:10",
+    "firstpitch": "02:10 AM",
     "team": "Dodgers",
     "teamcode": "LAD",
     "homegame": false
@@ -708,7 +708,7 @@
     "date": "2025-05-23",
     "firstpitchts": 1748045700000,
     "firstpitchiso": "2025-05-24T00:15:00.000Z",
-    "firstpitch": "00:15",
+    "firstpitch": "12:15 AM",
     "team": "Cardinals",
     "teamcode": "STL",
     "homegame": false
@@ -722,7 +722,7 @@
     "date": "2025-05-24",
     "firstpitchts": 1748110500000,
     "firstpitchiso": "2025-05-24T18:15:00.000Z",
-    "firstpitch": "18:15",
+    "firstpitch": "06:15 PM",
     "team": "Cardinals",
     "teamcode": "STL",
     "homegame": false
@@ -736,7 +736,7 @@
     "date": "2025-05-25",
     "firstpitchts": 1748196900000,
     "firstpitchiso": "2025-05-25T18:15:00.000Z",
-    "firstpitch": "18:15",
+    "firstpitch": "06:15 PM",
     "team": "Cardinals",
     "teamcode": "STL",
     "homegame": false
@@ -750,7 +750,7 @@
     "date": "2025-05-26",
     "firstpitchts": 1748304600000,
     "firstpitchiso": "2025-05-27T00:10:00.000Z",
-    "firstpitch": "00:10",
+    "firstpitch": "12:10 AM",
     "team": "Pirates",
     "teamcode": "PIT",
     "homegame": true
@@ -764,7 +764,7 @@
     "date": "2025-05-27",
     "firstpitchts": 1748396400000,
     "firstpitchiso": "2025-05-28T01:40:00.000Z",
-    "firstpitch": "01:40",
+    "firstpitch": "01:40 AM",
     "team": "Pirates",
     "teamcode": "PIT",
     "homegame": true
@@ -778,7 +778,7 @@
     "date": "2025-05-28",
     "firstpitchts": 1748461200000,
     "firstpitchiso": "2025-05-28T19:40:00.000Z",
-    "firstpitch": "19:40",
+    "firstpitch": "07:40 PM",
     "team": "Pirates",
     "teamcode": "PIT",
     "homegame": true
@@ -792,7 +792,7 @@
     "date": "2025-05-30",
     "firstpitchts": 1748655600000,
     "firstpitchiso": "2025-05-31T01:40:00.000Z",
-    "firstpitch": "01:40",
+    "firstpitch": "01:40 AM",
     "team": "Nationals",
     "teamcode": "WSH",
     "homegame": true
@@ -806,7 +806,7 @@
     "date": "2025-05-31",
     "firstpitchts": 1748743800000,
     "firstpitchiso": "2025-06-01T02:10:00.000Z",
-    "firstpitch": "02:10",
+    "firstpitch": "02:10 AM",
     "team": "Nationals",
     "teamcode": "WSH",
     "homegame": true
@@ -820,7 +820,7 @@
     "date": "2025-06-01",
     "firstpitchts": 1748808600000,
     "firstpitchiso": "2025-06-01T20:10:00.000Z",
-    "firstpitch": "20:10",
+    "firstpitch": "08:10 PM",
     "team": "Nationals",
     "teamcode": "WSH",
     "homegame": true
@@ -834,7 +834,7 @@
     "date": "2025-06-03",
     "firstpitchts": 1748992500000,
     "firstpitchiso": "2025-06-03T23:15:00.000Z",
-    "firstpitch": "23:15",
+    "firstpitch": "11:15 PM",
     "team": "Braves",
     "teamcode": "ATL",
     "homegame": false
@@ -848,7 +848,7 @@
     "date": "2025-06-04",
     "firstpitchts": 1749078900000,
     "firstpitchiso": "2025-06-04T23:15:00.000Z",
-    "firstpitch": "23:15",
+    "firstpitch": "11:15 PM",
     "team": "Braves",
     "teamcode": "ATL",
     "homegame": false
@@ -862,7 +862,7 @@
     "date": "2025-06-05",
     "firstpitchts": 1749140100000,
     "firstpitchiso": "2025-06-05T16:15:00.000Z",
-    "firstpitch": "16:15",
+    "firstpitch": "04:15 PM",
     "team": "Braves",
     "teamcode": "ATL",
     "homegame": false
@@ -876,7 +876,7 @@
     "date": "2025-06-06",
     "firstpitchts": 1749251400000,
     "firstpitchiso": "2025-06-06T23:10:00.000Z",
-    "firstpitch": "23:10",
+    "firstpitch": "11:10 PM",
     "team": "Reds",
     "teamcode": "CIN",
     "homegame": false
@@ -890,7 +890,7 @@
     "date": "2025-06-07",
     "firstpitchts": 1749327000000,
     "firstpitchiso": "2025-06-07T20:10:00.000Z",
-    "firstpitch": "20:10",
+    "firstpitch": "08:10 PM",
     "team": "Reds",
     "teamcode": "CIN",
     "homegame": false
@@ -904,7 +904,7 @@
     "date": "2025-06-08",
     "firstpitchts": 1749404400000,
     "firstpitchiso": "2025-06-08T17:40:00.000Z",
-    "firstpitch": "17:40",
+    "firstpitch": "05:40 PM",
     "team": "Reds",
     "teamcode": "CIN",
     "homegame": false
@@ -918,7 +918,7 @@
     "date": "2025-06-09",
     "firstpitchts": 1749519600000,
     "firstpitchiso": "2025-06-10T01:40:00.000Z",
-    "firstpitch": "01:40",
+    "firstpitch": "01:40 AM",
     "team": "Mariners",
     "teamcode": "SEA",
     "homegame": true
@@ -932,7 +932,7 @@
     "date": "2025-06-10",
     "firstpitchts": 1749606000000,
     "firstpitchiso": "2025-06-11T01:40:00.000Z",
-    "firstpitch": "01:40",
+    "firstpitch": "01:40 AM",
     "team": "Mariners",
     "teamcode": "SEA",
     "homegame": true
@@ -946,7 +946,7 @@
     "date": "2025-06-11",
     "firstpitchts": 1749670800000,
     "firstpitchiso": "2025-06-11T19:40:00.000Z",
-    "firstpitch": "19:40",
+    "firstpitch": "07:40 PM",
     "team": "Mariners",
     "teamcode": "SEA",
     "homegame": true
@@ -960,7 +960,7 @@
     "date": "2025-06-13",
     "firstpitchts": 1749865200000,
     "firstpitchiso": "2025-06-14T01:40:00.000Z",
-    "firstpitch": "01:40",
+    "firstpitch": "01:40 AM",
     "team": "Padres",
     "teamcode": "SD",
     "homegame": true
@@ -974,7 +974,7 @@
     "date": "2025-06-14",
     "firstpitchts": 1749942900000,
     "firstpitchiso": "2025-06-14T23:15:00.000Z",
-    "firstpitch": "23:15",
+    "firstpitch": "11:15 PM",
     "team": "Padres",
     "teamcode": "SD",
     "homegame": true
@@ -988,7 +988,7 @@
     "date": "2025-06-15",
     "firstpitchts": 1750018200000,
     "firstpitchiso": "2025-06-15T20:10:00.000Z",
-    "firstpitch": "20:10",
+    "firstpitch": "08:10 PM",
     "team": "Padres",
     "teamcode": "SD",
     "homegame": true
@@ -1002,7 +1002,7 @@
     "date": "2025-06-17",
     "firstpitchts": 1750201620000,
     "firstpitchiso": "2025-06-17T23:07:00.000Z",
-    "firstpitch": "23:07",
+    "firstpitch": "11:07 PM",
     "team": "Blue Jays",
     "teamcode": "TOR",
     "homegame": false
@@ -1016,7 +1016,7 @@
     "date": "2025-06-18",
     "firstpitchts": 1750288020000,
     "firstpitchiso": "2025-06-18T23:07:00.000Z",
-    "firstpitch": "23:07",
+    "firstpitch": "11:07 PM",
     "team": "Blue Jays",
     "teamcode": "TOR",
     "homegame": false
@@ -1030,7 +1030,7 @@
     "date": "2025-06-19",
     "firstpitchts": 1750360020000,
     "firstpitchiso": "2025-06-19T19:07:00.000Z",
-    "firstpitch": "19:07",
+    "firstpitch": "07:07 PM",
     "team": "Blue Jays",
     "teamcode": "TOR",
     "homegame": false
@@ -1044,7 +1044,7 @@
     "date": "2025-06-20",
     "firstpitchts": 1750466400000,
     "firstpitchiso": "2025-06-21T00:40:00.000Z",
-    "firstpitch": "00:40",
+    "firstpitch": "12:40 AM",
     "team": "Rockies",
     "teamcode": "COL",
     "homegame": false
@@ -1058,7 +1058,7 @@
     "date": "2025-06-21",
     "firstpitchts": 1750554600000,
     "firstpitchiso": "2025-06-22T01:10:00.000Z",
-    "firstpitch": "01:10",
+    "firstpitch": "01:10 AM",
     "team": "Rockies",
     "teamcode": "COL",
     "homegame": false
@@ -1072,7 +1072,7 @@
     "date": "2025-06-22",
     "firstpitchts": 1750619400000,
     "firstpitchiso": "2025-06-22T19:10:00.000Z",
-    "firstpitch": "19:10",
+    "firstpitch": "07:10 PM",
     "team": "Rockies",
     "teamcode": "COL",
     "homegame": false
@@ -1086,7 +1086,7 @@
     "date": "2025-06-23",
     "firstpitchts": 1750722000000,
     "firstpitchiso": "2025-06-23T23:40:00.000Z",
-    "firstpitch": "23:40",
+    "firstpitch": "11:40 PM",
     "team": "White Sox",
     "teamcode": "CHW",
     "homegame": false
@@ -1100,7 +1100,7 @@
     "date": "2025-06-24",
     "firstpitchts": 1750808400000,
     "firstpitchiso": "2025-06-24T23:40:00.000Z",
-    "firstpitch": "23:40",
+    "firstpitch": "11:40 PM",
     "team": "White Sox",
     "teamcode": "CHW",
     "homegame": false
@@ -1114,7 +1114,7 @@
     "date": "2025-06-25",
     "firstpitchts": 1750875000000,
     "firstpitchiso": "2025-06-25T18:10:00.000Z",
-    "firstpitch": "18:10",
+    "firstpitch": "06:10 PM",
     "team": "White Sox",
     "teamcode": "CHW",
     "homegame": false
@@ -1128,7 +1128,7 @@
     "date": "2025-06-27",
     "firstpitchts": 1751074800000,
     "firstpitchiso": "2025-06-28T01:40:00.000Z",
-    "firstpitch": "01:40",
+    "firstpitch": "01:40 AM",
     "team": "Marlins",
     "teamcode": "MIA",
     "homegame": true
@@ -1142,7 +1142,7 @@
     "date": "2025-06-28",
     "firstpitchts": 1751141400000,
     "firstpitchiso": "2025-06-28T20:10:00.000Z",
-    "firstpitch": "20:10",
+    "firstpitch": "08:10 PM",
     "team": "Marlins",
     "teamcode": "MIA",
     "homegame": true
@@ -1156,7 +1156,7 @@
     "date": "2025-06-29",
     "firstpitchts": 1751227800000,
     "firstpitchiso": "2025-06-29T20:10:00.000Z",
-    "firstpitch": "20:10",
+    "firstpitch": "08:10 PM",
     "team": "Marlins",
     "teamcode": "MIA",
     "homegame": true
@@ -1170,7 +1170,7 @@
     "date": "2025-06-30",
     "firstpitchts": 1751334000000,
     "firstpitchiso": "2025-07-01T01:40:00.000Z",
-    "firstpitch": "01:40",
+    "firstpitch": "01:40 AM",
     "team": "Giants",
     "teamcode": "SF",
     "homegame": true
@@ -1184,7 +1184,7 @@
     "date": "2025-07-01",
     "firstpitchts": 1751420400000,
     "firstpitchiso": "2025-07-02T01:40:00.000Z",
-    "firstpitch": "01:40",
+    "firstpitch": "01:40 AM",
     "team": "Giants",
     "teamcode": "SF",
     "homegame": true
@@ -1198,7 +1198,7 @@
     "date": "2025-07-02",
     "firstpitchts": 1751506800000,
     "firstpitchiso": "2025-07-03T01:40:00.000Z",
-    "firstpitch": "01:40",
+    "firstpitch": "01:40 AM",
     "team": "Giants",
     "teamcode": "SF",
     "homegame": true
@@ -1212,7 +1212,7 @@
     "date": "2025-07-03",
     "firstpitchts": 1751593200000,
     "firstpitchiso": "2025-07-04T01:40:00.000Z",
-    "firstpitch": "01:40",
+    "firstpitch": "01:40 AM",
     "team": "Giants",
     "teamcode": "SF",
     "homegame": true
@@ -1226,7 +1226,7 @@
     "date": "2025-07-04",
     "firstpitchts": 1751679600000,
     "firstpitchiso": "2025-07-05T01:40:00.000Z",
-    "firstpitch": "01:40",
+    "firstpitch": "01:40 AM",
     "team": "Royals",
     "teamcode": "KC",
     "homegame": true
@@ -1240,7 +1240,7 @@
     "date": "2025-07-05",
     "firstpitchts": 1751746200000,
     "firstpitchiso": "2025-07-05T20:10:00.000Z",
-    "firstpitch": "20:10",
+    "firstpitch": "08:10 PM",
     "team": "Royals",
     "teamcode": "KC",
     "homegame": true
@@ -1254,7 +1254,7 @@
     "date": "2025-07-06",
     "firstpitchts": 1751832600000,
     "firstpitchiso": "2025-07-06T20:10:00.000Z",
-    "firstpitch": "20:10",
+    "firstpitch": "08:10 PM",
     "team": "Royals",
     "teamcode": "KC",
     "homegame": true
@@ -1268,7 +1268,7 @@
     "date": "2025-07-07",
     "firstpitchts": 1751938800000,
     "firstpitchiso": "2025-07-08T01:40:00.000Z",
-    "firstpitch": "01:40",
+    "firstpitch": "01:40 AM",
     "team": "Padres",
     "teamcode": "SD",
     "homegame": false
@@ -1282,7 +1282,7 @@
     "date": "2025-07-08",
     "firstpitchts": 1752025200000,
     "firstpitchiso": "2025-07-09T01:40:00.000Z",
-    "firstpitch": "01:40",
+    "firstpitch": "01:40 AM",
     "team": "Padres",
     "teamcode": "SD",
     "homegame": false
@@ -1296,7 +1296,7 @@
     "date": "2025-07-09",
     "firstpitchts": 1752111600000,
     "firstpitchiso": "2025-07-10T01:40:00.000Z",
-    "firstpitch": "01:40",
+    "firstpitch": "01:40 AM",
     "team": "Padres",
     "teamcode": "SD",
     "homegame": false
@@ -1310,7 +1310,7 @@
     "date": "2025-07-10",
     "firstpitchts": 1752198000000,
     "firstpitchiso": "2025-07-11T01:40:00.000Z",
-    "firstpitch": "01:40",
+    "firstpitch": "01:40 AM",
     "team": "Padres",
     "teamcode": "SD",
     "homegame": false
@@ -1324,7 +1324,7 @@
     "date": "2025-07-11",
     "firstpitchts": 1752284280000,
     "firstpitchiso": "2025-07-12T01:38:00.000Z",
-    "firstpitch": "01:38",
+    "firstpitch": "01:38 AM",
     "team": "Angels",
     "teamcode": "LAA",
     "homegame": false
@@ -1338,7 +1338,7 @@
     "date": "2025-07-12",
     "firstpitchts": 1752370680000,
     "firstpitchiso": "2025-07-13T01:38:00.000Z",
-    "firstpitch": "01:38",
+    "firstpitch": "01:38 AM",
     "team": "Angels",
     "teamcode": "LAA",
     "homegame": false
@@ -1352,7 +1352,7 @@
     "date": "2025-07-13",
     "firstpitchts": 1752437220000,
     "firstpitchiso": "2025-07-13T20:07:00.000Z",
-    "firstpitch": "20:07",
+    "firstpitch": "08:07 PM",
     "team": "Angels",
     "teamcode": "LAA",
     "homegame": false
@@ -1366,7 +1366,7 @@
     "date": "2025-07-18",
     "firstpitchts": 1752889200000,
     "firstpitchiso": "2025-07-19T01:40:00.000Z",
-    "firstpitch": "01:40",
+    "firstpitch": "01:40 AM",
     "team": "Cardinals",
     "teamcode": "STL",
     "homegame": true
@@ -1380,7 +1380,7 @@
     "date": "2025-07-19",
     "firstpitchts": 1752966900000,
     "firstpitchiso": "2025-07-19T23:15:00.000Z",
-    "firstpitch": "23:15",
+    "firstpitch": "11:15 PM",
     "team": "Cardinals",
     "teamcode": "STL",
     "homegame": true
@@ -1394,7 +1394,7 @@
     "date": "2025-07-20",
     "firstpitchts": 1753042200000,
     "firstpitchiso": "2025-07-20T20:10:00.000Z",
-    "firstpitch": "20:10",
+    "firstpitch": "08:10 PM",
     "team": "Cardinals",
     "teamcode": "STL",
     "homegame": true
@@ -1408,7 +1408,7 @@
     "date": "2025-07-21",
     "firstpitchts": 1753148400000,
     "firstpitchiso": "2025-07-22T01:40:00.000Z",
-    "firstpitch": "01:40",
+    "firstpitch": "01:40 AM",
     "team": "Astros",
     "teamcode": "HOU",
     "homegame": true
@@ -1422,7 +1422,7 @@
     "date": "2025-07-22",
     "firstpitchts": 1753234800000,
     "firstpitchiso": "2025-07-23T01:40:00.000Z",
-    "firstpitch": "01:40",
+    "firstpitch": "01:40 AM",
     "team": "Astros",
     "teamcode": "HOU",
     "homegame": true
@@ -1436,7 +1436,7 @@
     "date": "2025-07-23",
     "firstpitchts": 1753299600000,
     "firstpitchiso": "2025-07-23T19:40:00.000Z",
-    "firstpitch": "19:40",
+    "firstpitch": "07:40 PM",
     "team": "Astros",
     "teamcode": "HOU",
     "homegame": true
@@ -1450,7 +1450,7 @@
     "date": "2025-07-25",
     "firstpitchts": 1753483200000,
     "firstpitchiso": "2025-07-25T22:40:00.000Z",
-    "firstpitch": "22:40",
+    "firstpitch": "10:40 PM",
     "team": "Pirates",
     "teamcode": "PIT",
     "homegame": false
@@ -1464,7 +1464,7 @@
     "date": "2025-07-26",
     "firstpitchts": 1753569600000,
     "firstpitchiso": "2025-07-26T22:40:00.000Z",
-    "firstpitch": "22:40",
+    "firstpitch": "10:40 PM",
     "team": "Pirates",
     "teamcode": "PIT",
     "homegame": false
@@ -1478,7 +1478,7 @@
     "date": "2025-07-27",
     "firstpitchts": 1753637700000,
     "firstpitchiso": "2025-07-27T17:35:00.000Z",
-    "firstpitch": "17:35",
+    "firstpitch": "05:35 PM",
     "team": "Pirates",
     "teamcode": "PIT",
     "homegame": false
@@ -1492,7 +1492,7 @@
     "date": "2025-07-28",
     "firstpitchts": 1753742400000,
     "firstpitchiso": "2025-07-28T22:40:00.000Z",
-    "firstpitch": "22:40",
+    "firstpitch": "10:40 PM",
     "team": "Tigers",
     "teamcode": "DET",
     "homegame": false
@@ -1506,7 +1506,7 @@
     "date": "2025-07-29",
     "firstpitchts": 1753828800000,
     "firstpitchiso": "2025-07-29T22:40:00.000Z",
-    "firstpitch": "22:40",
+    "firstpitch": "10:40 PM",
     "team": "Tigers",
     "teamcode": "DET",
     "homegame": false
@@ -1520,7 +1520,7 @@
     "date": "2025-07-30",
     "firstpitchts": 1753895400000,
     "firstpitchiso": "2025-07-30T17:10:00.000Z",
-    "firstpitch": "17:10",
+    "firstpitch": "05:10 PM",
     "team": "Tigers",
     "teamcode": "DET",
     "homegame": false
@@ -1534,7 +1534,7 @@
     "date": "2025-08-01",
     "firstpitchts": 1754100300000,
     "firstpitchiso": "2025-08-02T02:05:00.000Z",
-    "firstpitch": "02:05",
+    "firstpitch": "02:05 AM",
     "team": "Athletics",
     "teamcode": "ATH",
     "homegame": false
@@ -1548,7 +1548,7 @@
     "date": "2025-08-02",
     "firstpitchts": 1754186700000,
     "firstpitchiso": "2025-08-03T02:05:00.000Z",
-    "firstpitch": "02:05",
+    "firstpitch": "02:05 AM",
     "team": "Athletics",
     "teamcode": "ATH",
     "homegame": false
@@ -1562,7 +1562,7 @@
     "date": "2025-08-03",
     "firstpitchts": 1754251500000,
     "firstpitchiso": "2025-08-03T20:05:00.000Z",
-    "firstpitch": "20:05",
+    "firstpitch": "08:05 PM",
     "team": "Athletics",
     "teamcode": "ATH",
     "homegame": false
@@ -1576,7 +1576,7 @@
     "date": "2025-08-04",
     "firstpitchts": 1754358000000,
     "firstpitchiso": "2025-08-05T01:40:00.000Z",
-    "firstpitch": "01:40",
+    "firstpitch": "01:40 AM",
     "team": "Padres",
     "teamcode": "SD",
     "homegame": true
@@ -1590,7 +1590,7 @@
     "date": "2025-08-05",
     "firstpitchts": 1754444400000,
     "firstpitchiso": "2025-08-06T01:40:00.000Z",
-    "firstpitch": "01:40",
+    "firstpitch": "01:40 AM",
     "team": "Padres",
     "teamcode": "SD",
     "homegame": true
@@ -1604,7 +1604,7 @@
     "date": "2025-08-06",
     "firstpitchts": 1754530800000,
     "firstpitchiso": "2025-08-07T01:40:00.000Z",
-    "firstpitch": "01:40",
+    "firstpitch": "01:40 AM",
     "team": "Padres",
     "teamcode": "SD",
     "homegame": true
@@ -1618,7 +1618,7 @@
     "date": "2025-08-08",
     "firstpitchts": 1754703600000,
     "firstpitchiso": "2025-08-09T01:40:00.000Z",
-    "firstpitch": "01:40",
+    "firstpitch": "01:40 AM",
     "team": "Rockies",
     "teamcode": "COL",
     "homegame": true
@@ -1632,7 +1632,7 @@
     "date": "2025-08-09",
     "firstpitchts": 1754784600000,
     "firstpitchiso": "2025-08-10T00:10:00.000Z",
-    "firstpitch": "00:10",
+    "firstpitch": "12:10 AM",
     "team": "Rockies",
     "teamcode": "COL",
     "homegame": true
@@ -1646,7 +1646,7 @@
     "date": "2025-08-10",
     "firstpitchts": 1754856600000,
     "firstpitchiso": "2025-08-10T20:10:00.000Z",
-    "firstpitch": "20:10",
+    "firstpitch": "08:10 PM",
     "team": "Rockies",
     "teamcode": "COL",
     "homegame": true
@@ -1660,7 +1660,7 @@
     "date": "2025-08-11",
     "firstpitchts": 1754957100000,
     "firstpitchiso": "2025-08-12T00:05:00.000Z",
-    "firstpitch": "00:05",
+    "firstpitch": "12:05 AM",
     "team": "Rangers",
     "teamcode": "TEX",
     "homegame": false
@@ -1674,7 +1674,7 @@
     "date": "2025-08-12",
     "firstpitchts": 1755043500000,
     "firstpitchiso": "2025-08-13T00:05:00.000Z",
-    "firstpitch": "00:05",
+    "firstpitch": "12:05 AM",
     "team": "Rangers",
     "teamcode": "TEX",
     "homegame": false
@@ -1688,7 +1688,7 @@
     "date": "2025-08-13",
     "firstpitchts": 1755110100000,
     "firstpitchiso": "2025-08-13T18:35:00.000Z",
-    "firstpitch": "18:35",
+    "firstpitch": "06:35 PM",
     "team": "Rangers",
     "teamcode": "TEX",
     "homegame": false
@@ -1702,7 +1702,7 @@
     "date": "2025-08-14",
     "firstpitchts": 1755218400000,
     "firstpitchiso": "2025-08-15T00:40:00.000Z",
-    "firstpitch": "00:40",
+    "firstpitch": "12:40 AM",
     "team": "Rockies",
     "teamcode": "COL",
     "homegame": false
@@ -1716,7 +1716,7 @@
     "date": "2025-08-15",
     "firstpitchts": 1755304800000,
     "firstpitchiso": "2025-08-16T00:40:00.000Z",
-    "firstpitch": "00:40",
+    "firstpitch": "12:40 AM",
     "team": "Rockies",
     "teamcode": "COL",
     "homegame": false
@@ -1730,7 +1730,7 @@
     "date": "2025-08-16",
     "firstpitchts": 1755389400000,
     "firstpitchiso": "2025-08-17T00:10:00.000Z",
-    "firstpitch": "00:10",
+    "firstpitch": "12:10 AM",
     "team": "Rockies",
     "teamcode": "COL",
     "homegame": false
@@ -1744,7 +1744,7 @@
     "date": "2025-08-17",
     "firstpitchts": 1755457800000,
     "firstpitchiso": "2025-08-17T19:10:00.000Z",
-    "firstpitch": "19:10",
+    "firstpitch": "07:10 PM",
     "team": "Rockies",
     "teamcode": "COL",
     "homegame": false
@@ -1758,7 +1758,7 @@
     "date": "2025-08-18",
     "firstpitchts": 1755567600000,
     "firstpitchiso": "2025-08-19T01:40:00.000Z",
-    "firstpitch": "01:40",
+    "firstpitch": "01:40 AM",
     "team": "Guardians",
     "teamcode": "CLE",
     "homegame": true
@@ -1772,7 +1772,7 @@
     "date": "2025-08-19",
     "firstpitchts": 1755654000000,
     "firstpitchiso": "2025-08-20T01:40:00.000Z",
-    "firstpitch": "01:40",
+    "firstpitch": "01:40 AM",
     "team": "Guardians",
     "teamcode": "CLE",
     "homegame": true
@@ -1786,7 +1786,7 @@
     "date": "2025-08-20",
     "firstpitchts": 1755718800000,
     "firstpitchiso": "2025-08-20T19:40:00.000Z",
-    "firstpitch": "19:40",
+    "firstpitch": "07:40 PM",
     "team": "Guardians",
     "teamcode": "CLE",
     "homegame": true
@@ -1800,7 +1800,7 @@
     "date": "2025-08-22",
     "firstpitchts": 1755913200000,
     "firstpitchiso": "2025-08-23T01:40:00.000Z",
-    "firstpitch": "01:40",
+    "firstpitch": "01:40 AM",
     "team": "Reds",
     "teamcode": "CIN",
     "homegame": true
@@ -1814,7 +1814,7 @@
     "date": "2025-08-23",
     "firstpitchts": 1755994200000,
     "firstpitchiso": "2025-08-24T00:10:00.000Z",
-    "firstpitch": "00:10",
+    "firstpitch": "12:10 AM",
     "team": "Reds",
     "teamcode": "CIN",
     "homegame": true
@@ -1828,7 +1828,7 @@
     "date": "2025-08-24",
     "firstpitchts": 1756066200000,
     "firstpitchiso": "2025-08-24T20:10:00.000Z",
-    "firstpitch": "20:10",
+    "firstpitch": "08:10 PM",
     "team": "Reds",
     "teamcode": "CIN",
     "homegame": true
@@ -1842,7 +1842,7 @@
     "date": "2025-08-25",
     "firstpitchts": 1756165200000,
     "firstpitchiso": "2025-08-25T23:40:00.000Z",
-    "firstpitch": "23:40",
+    "firstpitch": "11:40 PM",
     "team": "Brewers",
     "teamcode": "MIL",
     "homegame": false
@@ -1856,7 +1856,7 @@
     "date": "2025-08-26",
     "firstpitchts": 1756251600000,
     "firstpitchiso": "2025-08-26T23:40:00.000Z",
-    "firstpitch": "23:40",
+    "firstpitch": "11:40 PM",
     "team": "Brewers",
     "teamcode": "MIL",
     "homegame": false
@@ -1870,7 +1870,7 @@
     "date": "2025-08-27",
     "firstpitchts": 1756338000000,
     "firstpitchiso": "2025-08-27T23:40:00.000Z",
-    "firstpitch": "23:40",
+    "firstpitch": "11:40 PM",
     "team": "Brewers",
     "teamcode": "MIL",
     "homegame": false
@@ -1884,7 +1884,7 @@
     "date": "2025-08-28",
     "firstpitchts": 1756404600000,
     "firstpitchiso": "2025-08-28T18:10:00.000Z",
-    "firstpitch": "18:10",
+    "firstpitch": "06:10 PM",
     "team": "Brewers",
     "teamcode": "MIL",
     "homegame": false
@@ -1898,7 +1898,7 @@
     "date": "2025-08-29",
     "firstpitchts": 1756519800000,
     "firstpitchiso": "2025-08-30T02:10:00.000Z",
-    "firstpitch": "02:10",
+    "firstpitch": "02:10 AM",
     "team": "Dodgers",
     "teamcode": "LAD",
     "homegame": false
@@ -1912,7 +1912,7 @@
     "date": "2025-08-30",
     "firstpitchts": 1756602600000,
     "firstpitchiso": "2025-08-31T01:10:00.000Z",
-    "firstpitch": "01:10",
+    "firstpitch": "01:10 AM",
     "team": "Dodgers",
     "teamcode": "LAD",
     "homegame": false
@@ -1926,7 +1926,7 @@
     "date": "2025-08-31",
     "firstpitchts": 1756671000000,
     "firstpitchiso": "2025-08-31T20:10:00.000Z",
-    "firstpitch": "20:10",
+    "firstpitch": "08:10 PM",
     "team": "Dodgers",
     "teamcode": "LAD",
     "homegame": false
@@ -1940,7 +1940,7 @@
     "date": "2025-09-01",
     "firstpitchts": 1756771800000,
     "firstpitchiso": "2025-09-02T00:10:00.000Z",
-    "firstpitch": "00:10",
+    "firstpitch": "12:10 AM",
     "team": "Rangers",
     "teamcode": "TEX",
     "homegame": true
@@ -1954,7 +1954,7 @@
     "date": "2025-09-02",
     "firstpitchts": 1756863600000,
     "firstpitchiso": "2025-09-03T01:40:00.000Z",
-    "firstpitch": "01:40",
+    "firstpitch": "01:40 AM",
     "team": "Rangers",
     "teamcode": "TEX",
     "homegame": true
@@ -1968,7 +1968,7 @@
     "date": "2025-09-03",
     "firstpitchts": 1756928400000,
     "firstpitchiso": "2025-09-03T19:40:00.000Z",
-    "firstpitch": "19:40",
+    "firstpitch": "07:40 PM",
     "team": "Rangers",
     "teamcode": "TEX",
     "homegame": true
@@ -1982,7 +1982,7 @@
     "date": "2025-09-05",
     "firstpitchts": 1757122800000,
     "firstpitchiso": "2025-09-06T01:40:00.000Z",
-    "firstpitch": "01:40",
+    "firstpitch": "01:40 AM",
     "team": "Red Sox",
     "teamcode": "BOS",
     "homegame": true
@@ -1996,7 +1996,7 @@
     "date": "2025-09-06",
     "firstpitchts": 1757203800000,
     "firstpitchiso": "2025-09-07T00:10:00.000Z",
-    "firstpitch": "00:10",
+    "firstpitch": "12:10 AM",
     "team": "Red Sox",
     "teamcode": "BOS",
     "homegame": true
@@ -2010,7 +2010,7 @@
     "date": "2025-09-07",
     "firstpitchts": 1757275800000,
     "firstpitchiso": "2025-09-07T20:10:00.000Z",
-    "firstpitch": "20:10",
+    "firstpitch": "08:10 PM",
     "team": "Red Sox",
     "teamcode": "BOS",
     "homegame": true
@@ -2024,7 +2024,7 @@
     "date": "2025-09-08",
     "firstpitchts": 1757382300000,
     "firstpitchiso": "2025-09-09T01:45:00.000Z",
-    "firstpitch": "01:45",
+    "firstpitch": "01:45 AM",
     "team": "Giants",
     "teamcode": "SF",
     "homegame": false
@@ -2038,7 +2038,7 @@
     "date": "2025-09-09",
     "firstpitchts": 1757468700000,
     "firstpitchiso": "2025-09-10T01:45:00.000Z",
-    "firstpitch": "01:45",
+    "firstpitch": "01:45 AM",
     "team": "Giants",
     "teamcode": "SF",
     "homegame": false
@@ -2052,7 +2052,7 @@
     "date": "2025-09-10",
     "firstpitchts": 1757533500000,
     "firstpitchiso": "2025-09-10T19:45:00.000Z",
-    "firstpitch": "19:45",
+    "firstpitch": "07:45 PM",
     "team": "Giants",
     "teamcode": "SF",
     "homegame": false
@@ -2066,7 +2066,7 @@
     "date": "2025-09-12",
     "firstpitchts": 1757722200000,
     "firstpitchiso": "2025-09-13T00:10:00.000Z",
-    "firstpitch": "00:10",
+    "firstpitch": "12:10 AM",
     "team": "Twins",
     "teamcode": "MIN",
     "homegame": false
@@ -2080,7 +2080,7 @@
     "date": "2025-09-13",
     "firstpitchts": 1757805000000,
     "firstpitchiso": "2025-09-13T23:10:00.000Z",
-    "firstpitch": "23:10",
+    "firstpitch": "11:10 PM",
     "team": "Twins",
     "teamcode": "MIN",
     "homegame": false
@@ -2094,7 +2094,7 @@
     "date": "2025-09-14",
     "firstpitchts": 1757873400000,
     "firstpitchiso": "2025-09-14T18:10:00.000Z",
-    "firstpitch": "18:10",
+    "firstpitch": "06:10 PM",
     "team": "Twins",
     "teamcode": "MIN",
     "homegame": false
@@ -2108,7 +2108,7 @@
     "date": "2025-09-15",
     "firstpitchts": 1757986800000,
     "firstpitchiso": "2025-09-16T01:40:00.000Z",
-    "firstpitch": "01:40",
+    "firstpitch": "01:40 AM",
     "team": "Giants",
     "teamcode": "SF",
     "homegame": true
@@ -2122,7 +2122,7 @@
     "date": "2025-09-16",
     "firstpitchts": 1758073200000,
     "firstpitchiso": "2025-09-17T01:40:00.000Z",
-    "firstpitch": "01:40",
+    "firstpitch": "01:40 AM",
     "team": "Giants",
     "teamcode": "SF",
     "homegame": true
@@ -2136,7 +2136,7 @@
     "date": "2025-09-17",
     "firstpitchts": 1758138000000,
     "firstpitchiso": "2025-09-17T19:40:00.000Z",
-    "firstpitch": "19:40",
+    "firstpitch": "07:40 PM",
     "team": "Giants",
     "teamcode": "SF",
     "homegame": true
@@ -2150,7 +2150,7 @@
     "date": "2025-09-19",
     "firstpitchts": 1758332400000,
     "firstpitchiso": "2025-09-20T01:40:00.000Z",
-    "firstpitch": "01:40",
+    "firstpitch": "01:40 AM",
     "team": "Phillies",
     "teamcode": "PHI",
     "homegame": true
@@ -2164,7 +2164,7 @@
     "date": "2025-09-20",
     "firstpitchts": 1758413400000,
     "firstpitchiso": "2025-09-21T00:10:00.000Z",
-    "firstpitch": "00:10",
+    "firstpitch": "12:10 AM",
     "team": "Phillies",
     "teamcode": "PHI",
     "homegame": true
@@ -2178,7 +2178,7 @@
     "date": "2025-09-21",
     "firstpitchts": 1758485400000,
     "firstpitchiso": "2025-09-21T20:10:00.000Z",
-    "firstpitch": "20:10",
+    "firstpitch": "08:10 PM",
     "team": "Phillies",
     "teamcode": "PHI",
     "homegame": true
@@ -2192,7 +2192,7 @@
     "date": "2025-09-23",
     "firstpitchts": 1758678000000,
     "firstpitchiso": "2025-09-24T01:40:00.000Z",
-    "firstpitch": "01:40",
+    "firstpitch": "01:40 AM",
     "team": "Dodgers",
     "teamcode": "LAD",
     "homegame": true
@@ -2206,7 +2206,7 @@
     "date": "2025-09-24",
     "firstpitchts": 1758764400000,
     "firstpitchiso": "2025-09-25T01:40:00.000Z",
-    "firstpitch": "01:40",
+    "firstpitch": "01:40 AM",
     "team": "Dodgers",
     "teamcode": "LAD",
     "homegame": true
@@ -2220,7 +2220,7 @@
     "date": "2025-09-25",
     "firstpitchts": 1758829200000,
     "firstpitchiso": "2025-09-25T19:40:00.000Z",
-    "firstpitch": "19:40",
+    "firstpitch": "07:40 PM",
     "team": "Dodgers",
     "teamcode": "LAD",
     "homegame": true
@@ -2234,7 +2234,7 @@
     "date": "2025-09-26",
     "firstpitchts": 1758937200000,
     "firstpitchiso": "2025-09-27T01:40:00.000Z",
-    "firstpitch": "01:40",
+    "firstpitch": "01:40 AM",
     "team": "Padres",
     "teamcode": "SD",
     "homegame": false
@@ -2248,7 +2248,7 @@
     "date": "2025-09-27",
     "firstpitchts": 1759020000000,
     "firstpitchiso": "2025-09-28T00:40:00.000Z",
-    "firstpitch": "00:40",
+    "firstpitch": "12:40 AM",
     "team": "Padres",
     "teamcode": "SD",
     "homegame": false
@@ -2262,7 +2262,7 @@
     "date": "2025-09-28",
     "firstpitchts": 1759086600000,
     "firstpitchiso": "2025-09-28T19:10:00.000Z",
-    "firstpitch": "19:10",
+    "firstpitch": "07:10 PM",
     "team": "Padres",
     "teamcode": "SD",
     "homegame": false
