@@ -62,7 +62,7 @@ fs.readFile('dbacks.csv','utf8', (err,data) => {
       date: dt.toLocaleDateString('fr-CA'),
       firstpitchts: +fp,
       firstpitchiso: fp,
-      firstpitch: fp.toLocaleTimeString('en-GB', {
+      firstpitch: fp.toLocaleTimeString('en-US', {
         hour: '2-digit',
         minute: '2-digit',
       }),
